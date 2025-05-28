@@ -1,1 +1,1 @@
-# Mock Cloud APIs. Test Faster. Train Smarter.
+# Mock APIs. Test Faster. Train Smarter.
